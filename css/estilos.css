@@ -1,0 +1,10 @@
+body{
+    background: rgb(197, 197, 197);
+}
+
+#tarjeta{
+    border: 1px solid rgb(145, 145, 145);
+    border-radius: 5%;
+    height: 500px;
+    margin: 0 30%;
+}
