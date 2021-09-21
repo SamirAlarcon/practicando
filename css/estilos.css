@@ -8,3 +8,12 @@ body{
     height: 500px;
     margin: 0 30%;
 }
+
+#titulo{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+}
